@@ -1,3 +1,16 @@
+#What does this do?
+
+This the frontend of the phonebook, the actual UI.  It issues requests to the backend API server which must be
+running.  
+
+ReactJS was chosen for performance, ease of development and ubiquity.  It essentially allows you to
+intelligibly compose views for single page application.
+
+It would be interesting to see the difference in codebase size that might be afforded by the Hooks added to
+React.
+
+You will need to have npm installed in order to run this frontend.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
